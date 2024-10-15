@@ -2,7 +2,7 @@ Blinkit Analysis - Sprint 1
 
 This repository contains a Power BI analysis of Blinkit, a popular instant delivery service, focused on providing insights from Sprint 1 data.
 
-Project Description
+## Project Description
 
 The Blinkit Analysis project is aimed at understanding the operational and sales performance of Blinkit during the first sprint of the analysis period. This Power BI dashboard presents data visualizations and insights to help evaluate key metrics such as:
 
@@ -13,7 +13,7 @@ The Blinkit Analysis project is aimed at understanding the operational and sales
 
 The analysis helps identify key areas of improvement and optimizes the decision-making process for better business performance.
 
-Data Sources
+## Data Sources
 
 The analysis is based on Sprint 1 data from Blinkit, which includes:
 
@@ -21,7 +21,7 @@ The analysis is based on Sprint 1 data from Blinkit, which includes:
 2. Customer Data: Information about customer demographics and order history.
 3. Delivery Data: Details regarding delivery times, delivery agents, and customer ratings.
 
-Key Insights
+## Key Insights
 
 Some of the key findings from this analysis are:
 
@@ -30,7 +30,7 @@ Some of the key findings from this analysis are:
 - Delivery Optimization: The average delivery time improved by 15% after adjusting the route optimization strategy.
 - Peak Hours: Most orders are placed between 6 PM to 9 PM, indicating the need for a better delivery fleet during these hours.
 
-How to Use the Power BI Report
+## How to Use the Power BI Report
 
 1. Download the `.pbix` file from the repository.
 2. Open the file in Power BI Desktop.
